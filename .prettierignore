@@ -1,0 +1,14 @@
+/build
+/public
+/uploads
+/uploads/images
+/uploads/videos
+/uploads/images/profile
+/uploads/images/profile/thumbnail
+/.vscode
+/node_modules
+/dist
+*.env
+.env
+.env.*
+*.env.*
